@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## Greedy
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1955-seat-reservation-manager](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1955-seat-reservation-manager) |
+## Sorting
+|  |
+| ------- |
+| [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 <!---LeetCode Topics End-->
