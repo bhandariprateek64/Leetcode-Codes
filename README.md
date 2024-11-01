@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## Binary Search
@@ -15,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Design
 |  |
