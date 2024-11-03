@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Two Pointers
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
