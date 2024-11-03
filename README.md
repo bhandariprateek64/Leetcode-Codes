@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## Binary Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 ## Design
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## String
 |  |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0812-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
