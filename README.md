@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [3451-string-compression-iii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3451-string-compression-iii) |
 ## Two Pointers
 |  |
 | ------- |
