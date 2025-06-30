@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
+| [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
+| [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 ## Greedy
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [0812-rotate-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3451-string-compression-iii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3451-string-compression-iii) |
@@ -72,10 +75,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3394-minimum-array-end](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3394-minimum-array-end) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
