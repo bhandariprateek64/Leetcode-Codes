@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Trie
