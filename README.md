@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3394-minimum-array-end](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3394-minimum-array-end) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
