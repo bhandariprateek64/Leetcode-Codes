@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
