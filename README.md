@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0091-decode-ways) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0131-palindrome-partitioning) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
