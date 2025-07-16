@@ -143,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0463-island-perimeter) |
+| [0801-is-graph-bipartite](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0463-island-perimeter) |
+| [0801-is-graph-bipartite](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,9 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0463-island-perimeter) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
