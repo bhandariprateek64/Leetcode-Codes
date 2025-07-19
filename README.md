@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0210-course-schedule-ii) |
