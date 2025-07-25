@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0463-island-perimeter) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
+| [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Bit Manipulation
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
