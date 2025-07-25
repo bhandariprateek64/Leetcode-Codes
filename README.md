@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
