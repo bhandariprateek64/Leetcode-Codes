@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
+| [2728-sum-in-a-matrix](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2728-sum-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1955-seat-reservation-manager](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1955-seat-reservation-manager) |
+| [2728-sum-in-a-matrix](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2728-sum-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
+| [2728-sum-in-a-matrix](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2728-sum-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2728-sum-in-a-matrix](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2728-sum-in-a-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0463-island-perimeter) |
+| [2728-sum-in-a-matrix](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2728-sum-in-a-matrix) |
 ## Graph
 |  |
 | ------- |
