@@ -222,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
+## Database
+|  |
+| ------- |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1327-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
