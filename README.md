@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1236-n-th-tribonacci-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
