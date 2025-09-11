@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2728-sum-in-a-matrix](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2728-sum-in-a-matrix) |
+| [2887-sort-vowels-in-a-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0812-rotate-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3451-string-compression-iii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3451-string-compression-iii) |
 ## Two Pointers
 |  |
