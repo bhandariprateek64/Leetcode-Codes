@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2554-minimum-total-distance-traveled) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2728-sum-in-a-matrix](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2728-sum-in-a-matrix) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Design
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
 | [2139-detect-squares](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2139-detect-squares) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1236-n-th-tribonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
