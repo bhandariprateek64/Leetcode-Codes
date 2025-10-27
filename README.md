@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1236-n-th-tribonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
