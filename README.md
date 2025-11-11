@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0474-ones-and-zeroes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
+| [0474-ones-and-zeroes](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0474-ones-and-zeroes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1236-n-th-tribonacci-number](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1236-n-th-tribonacci-number) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0140-word-break-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0474-ones-and-zeroes](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0474-ones-and-zeroes) |
 | [0778-reorganize-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
