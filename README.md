@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0474-ones-and-zeroes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
+| [1590-make-sum-divisible-by-p](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1590-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1961-maximum-ice-cream-bars) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0508-most-frequent-subtree-sum) |
 | [0778-reorganize-string](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/0778-reorganize-string) |
 | [1039-find-the-town-judge](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1039-find-the-town-judge) |
+| [1590-make-sum-divisible-by-p](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1590-make-sum-divisible-by-p) |
 | [2139-detect-squares](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2139-detect-squares) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/bhandariprateek64/Leetcode-Codes/tree/master/1590-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
